@@ -7,9 +7,9 @@ import CareerTips from './Pages/CareerTips';
 function App() {
   return (
     <div className="App">
-    {/* <Login/> */}
-    {/* <Signup/> */}
-    <CareerTips/>
+    <Login/>
+    <Signup/>
+    {/* <CareerTips/> */}
     </div>
   );
 }

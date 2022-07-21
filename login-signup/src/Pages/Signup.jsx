@@ -105,7 +105,7 @@ function Signup() {
   const [size, setSize] = React.useState("");
   const { isOpen, onOpen, onClose } = useDisclosure();
 
-  console.log(state);
+  console.log(signup_data);
 
   const handleSignup = () => {
     let flag = false;
