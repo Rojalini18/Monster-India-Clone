@@ -2,7 +2,7 @@ import { Box, Button, Checkbox, Image, Input, InputGroup, InputLeftElement, Sele
 import React, { useState } from 'react'
 import { Search2Icon } from '@chakra-ui/icons'
 
-import data from '../db.json' 
+import data from '../../../fw16_486_day-2/src/db.json' 
 
 let arrData = data.data
 
