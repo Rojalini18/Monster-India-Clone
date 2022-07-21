@@ -1,13 +1,15 @@
-import { Accordion, AccordionButton, AccordionItem, AccordionPanel, Box, Button, Checkbox, CSSReset, Image, Input, InputGroup, InputLeftElement, InputRightElement, Select, Stack, Text } from '@chakra-ui/react'
+import { Accordion, AccordionButton, AccordionItem, AccordionPanel, Box, Button, ButtonGroup, CSSReset, Image, Input, InputGroup, InputLeftElement, InputRightElement, Select, Stack, Text } from '@chakra-ui/react'
 import React, { useState } from 'react' ;
-import { AddIcon, BellIcon, MinusIcon, Search2Icon} from '@chakra-ui/icons' 
+import { AddIcon, BellIcon, MinusIcon, Search2Icon, StarIcon} from '@chakra-ui/icons' 
 
+import data from '../db.json'
+
+console.log(data.data)
 
 
 const FilterJobs = () => {
 
     const [category,setCategory] = useState('')
-
 
     const handleCheckbox =(e)=>{
 
@@ -30,7 +32,7 @@ const FilterJobs = () => {
    <Box bg={'#F5F5F5'} pt={5}>
 
      {/* Poster advertisement */}
-    <Box m={2}>
+    <Box  m={2} >
          <Image m={'auto'} src='https://tpc.googlesyndication.com/simgad/12267176381814666887' alt='addvetise' />
     </Box>
 
@@ -570,14 +572,14 @@ const FilterJobs = () => {
                   
                         <Box  display={'flex'} gap={2}>
                             <BellIcon mt={2} color={'#6C54DA'} />
-                            <Text fontWeight={500} color={'#6C54DA'}>Create Alert</Text>
-                            <Button size='sm' color={'black'} borderRadius={'none'} bg={'white'} _hover={{bg:'#4A2189',color:'white'}} border='1px' borderColor='blue.500'>Save Search </Button>
+                            <Text fontWeight={500} color={'#6C54DA'} cursor={'pointer'}>Create Alert</Text>
+                            <Button size='sm' color={'black'} borderRadius={'none'} bg={'white'} _hover={{bg:'#4A2189',color:'white'}} border='1px' borderColor='#4A2189'>Save Search </Button>
                         </Box>
                     </Box>
 
                 <Box mt={5} w={900} display={'flex'} gap={5}>
                     <Box fontSize={'sm'} p={3} display={'flex'} gap={2} h={14} width={650} bg={'white'}>
-                        <Text color={'blue.500'}>How is the search relevance?</Text>
+                        <Text color={'blue.500'} cursor={'pointer'}>How is the search relevance?</Text>
                         {/* <Box>
                         <ThemeProvider>
                             <CSSReset/>
@@ -591,7 +593,7 @@ const FilterJobs = () => {
                             </ThemeProvider>
                         </Box> */}
                         <Text>Show:</Text>
-                        <Select h={7} p={0} focusBorderColor={'none'} borderRadius={'none'} width={20} placeholder={25}>
+                        <Select h={7} p={0} focusBorderColor={'none'} color={'gray.500'} borderRadius={'none'} width={20} placeholder={25}>
                             <option>50</option>
                             <option>75</option>
                             <option>100</option>
@@ -609,13 +611,53 @@ const FilterJobs = () => {
                 
                 {/* MAP RESULTS HERE */}
 
-                <Box mt={5} width={650} bg={'white'} h={140}>
-
+                <Box width={650}  _hover={{boxShadow:"rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;"}}>
+                <Box p={2} mt={4} width={650} bg={'white'} h={150}>
+                    <Text>Senior Member Technical Staff</Text>
+                    <Text fontSize={'sm'} color={'#5D73C5'}>Siemens Technology</Text>
+                    <Box w={'100%'} display={'flex'} gap={28}>
+                        <Box display={'flex'} gap={2}>
+                            <Image mt={1} w={4} h={4} src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXH7ayI-h7hqew7lOIuHnAAy2FGVm-NQqZv6zQQyu7Bbjnw78IIOFjsgjckcdx_V_DY4Q&usqp=CAU' />
+                            <Text fontSize={'sm'}>India,Noida</Text>
+                        </Box>
+                        <Box display={'flex'} gap={2}>
+                            <Image w={5} src='https://thumb1.shutterstock.com/mosaic_250/169597876/575849710/stock-vector-vector-illustration-of-gray-business-bag-icon-575849710.jpg' />
+                            <Text fontSize={'sm'}>2-8 Years</Text>
+                        </Box>
+                        <Box display={'flex'} gap={2}>
+                            <Image w={5} src='https://geeuinstitute.org/wp-content/uploads/2018/01/2-512.png' />
+                            <Text fontSize={'sm'}>Not Specified</Text>
+                        </Box>
+                      
+                    </Box>
+                    <Box fontSize={'sm'} color={'gray.700'} w={'100%'}>
+                        <Text>
+                        Job Description:A part of the Tata group,India's largest multinational business group,TCS has over 500,000 over the world’s best-trained consultants in 46 countries.
+                        </Text>
+                        <Text>
+                        Skills:Data Scientist,Data Science
+                        </Text>
+                    </Box>
                 </Box>
+                <Box fontSize={'sm'} display={'flex'}  justifyContent={'space-between'} h={'50px'} p={2} w={650} bg={'#EBEBEB'}>
+                  <Box  display={'flex'} gap={2}>
+                    <Image h={5} w={5} src='https://www.pngitem.com/pimgs/m/20-200060_icon-green-leaf-png-transparent-png.png' />
+                    <Text>Posted : 13 Hours Ago | </Text>
+                    <Text  color={'#6C54DA'}>Internation</Text>
+                  </Box>
 
-
+                  <Box display={'flex'} gap={2}>
+                    <StarIcon mt={1} fontSize={'xl'} color={'gray'} />
+                    <Image h={7} w={7} src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sharethis-grey.svg/800px-Sharethis-grey.svg.png' />
+                    <ButtonGroup variant='outline' spacing='6'>
+                    <Button _hover={{bg:'#6C54DA',color:"white",border:"1px solid #6C54DA "}} size='sm'borderRadius={'none'} border={'2px solid blue'} color={'#6C54DA'} colorScheme='#6C54DA'>APPLY</Button>
+                    </ButtonGroup>
+                  </Box>
+               
                 </Box>
-                <Image ml={-200} mt={14} src='https://tpc.googlesyndication.com/simgad/8888453308644972334'/>
+                </Box>
+                </Box>
+                <Image h={600} ml={-200} mt={14} src='https://tpc.googlesyndication.com/simgad/8888453308644972334'/>
             </Box>
         </Box>
    </Box>
