@@ -18,8 +18,6 @@ const FilterJobs = () => {
 
    
     const handleSearch =()=>{
-     
-    
         let newCategory = [...category]
     
         if(category.includes(search || loc))
@@ -654,10 +652,11 @@ const FilterJobs = () => {
                             </ThemeProvider>
                         </Box> */}
                         <Text>Show:</Text>
-                        <Select h={7} p={0} focusBorderColor={'none'} borderRadius={'none'} width={20} placeholder={25}>
-                            <option>50</option>
-                            <option>75</option>
-                            <option>100</option>
+                        <Select h={7} p={0} focusBorderColor={'none'} borderRadius={'none'} width={20} >
+                            <option value={5}>5</option>
+                            <option value={5}>10</option>
+                            <option value={5}>15</option>
+                            <option value={5}>20</option>
                         </Select>
                         <Text>Per Page</Text>
 
@@ -669,69 +668,12 @@ const FilterJobs = () => {
                     </Box>
                     
                 </Box>
-                
-                {/* MAP RESULTS HERE */}
-
-                <Box mt={5} width={650} bg={'white'} h={140}>
-
-                </Box>
-
-
-                </Box>
-                <Image ml={-200} mt={14} src='https://tpc.googlesyndication.com/simgad/8888453308644972334'/>
-
-              
-               
-                      <Box>
-                      <Box width={850} display={'flex'} justifyContent={'space-between'}>
-                          <Box>
-                              <Text fontWeight={500}>Team Leader/Technical Leader jobs</Text>
-                          </Box>
-                    
-                          <Box  display={'flex'} gap={2}>
-                              <BellIcon mt={2} color={'#6C54DA'} />
-                              <Text fontWeight={500} color={'#6C54DA'} cursor={'pointer'}>Create Alert</Text>
-                              <Button size='sm' color={'black'} borderRadius={'none'} bg={'white'} _hover={{bg:'#4A2189',color:'white'}} border='1px' borderColor='#4A2189'>Save Search </Button>
-                          </Box>
-                      </Box>
-  
-                  <Box mt={5} w={900} display={'flex'} gap={5}>
-                      <Box fontSize={'sm'} p={3} display={'flex'} gap={2} h={14} width={650} bg={'white'}>
-                          <Text color={'blue.500'} cursor={'pointer'}>How is the search relevance?</Text>
-                          {/* <Box>
-                          <ThemeProvider>
-                              <CSSReset/>
-                              <Rating
-                                  size={48}
-                                  icon="star"
-                                  scale={5}
-                                  fillColor="gold"
-                                  strokeColor="grey"
-                              />
-                              </ThemeProvider>
-                          </Box> */}
-                          <Text>Show:</Text>
-                          <Select h={7} p={0} onChange={(e)=>setPage(e.target.value)} focusBorderColor={'none'} color={'gray.500'} borderRadius={'none'} width={20} >
-                              <option value={5}>5</option>
-                              <option value={10}>10</option>
-                              <option value={15}>15</option>
-                              <option value={20}>20</option>
-                          </Select>
-                          <Text>Per Page</Text>
-  
-  
-                          <Text>Sort By : </Text>
-                          <Select h={7} color='gray.500' p={0} focusBorderColor={'none'} borderRadius={'none'} width={40} placeholder={'Relevance'}>
-                              <option>Freshness</option>
-                          </Select>
-                      </Box>
-                      
-                  </Box>
+            
                   
                   {/* MAP RESULTS HERE */}
 
                   {jobs.map((el,index)=>(
-                    index<page &&
+                    index < page &&
                   <Box width={650}  _hover={{boxShadow:"rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;"}}>
                   <Box p={2} mt={4} width={650} bg={'white'} h={150}>
                       <Text>{el.title}</Text>
