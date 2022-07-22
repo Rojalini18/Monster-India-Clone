@@ -127,6 +127,7 @@ function Signup() {
           flag = true;
         }
       });
+      
       if(flag==true){
         alert("Already Registered")
         navigate("/")

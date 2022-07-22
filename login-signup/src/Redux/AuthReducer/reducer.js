@@ -12,6 +12,7 @@ const initauthState = {
     case ADD_SIGNUP_DATA:{
       let data=JSON.parse(localStorage.getItem("signup_data")) || []
       data=[...data,payload]
+      
       localStorage.setItem("signup_data",JSON.stringify(data))
         return {
          ...state,
