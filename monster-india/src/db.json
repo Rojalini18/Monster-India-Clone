@@ -1,6 +1,8 @@
 {
   "data":[
 {"id":"6694152",
+"value":"IT",
+"function":"IT",
 "title":"Software Engineer ",
 "locations":["Canada","Germany"],
 "minimumExperience":{"years":2},
@@ -12,7 +14,7 @@
 "summary":"call or whatsapp on 9205521238",
 "jobTypes":[],
 "employmentTypes":["Full time"],
-"skills":"Software Engineer Software developer Senior software engineer Programmer Developer IT Software programmer",
+"skills":"Senior software engineer Programmer Developer IT Software programmer",
 "recruiterId":771426,
 "companyId":489956,
 "designations":["Software Engineer/Programmer"],
@@ -25,11 +27,13 @@
 "companyProfile":"Infinix Immigration Service pvt. ltd. is Delhi’s most eminent Visa Consultant in Delhi. It was laid with an idea that was incepted in the minds of our founding members in the year 2016 believing that they had the potential to become one of the most successful businesses in future. We believe in providing top-notch services to our clients. We deal in business visa,retirement visa,skilled visa,citizenship visa,permanent residency,spouse marriage visa,sponsorship visa and much more. Our team of skilled & professional visa immigration consultants in Delhi are the face of our organization and experts in their field. Our aim is to provide dedicated and in time services to our clients.",
 "minimumSalaryFilter":4050000,
 "maximumSalaryFilter":4530000,
-"exp":"2-5 Years",
+"exp":"0 - 1 Years",
 "salary":"50000-45,30,000 INR"
 },
 
 {"id":"6031603",
+  "value": "IT/Software Development",
+  "function" : "IT/Software Development",
 "jobId":6031603,
 "title":"Software Engineer/Programmer Required For Canada & Australia",
 "locations":"Australia,Canada",
@@ -55,12 +59,14 @@
 "employerTypes":["Company"],
 "companyName":"Arcade Visas Services Private Limited",
 "companyProfile":"AVS IMMIGRATION is a company incorporated in INDIA and managed by a team of qualified and highly skilled professionals comprising efficient migration consultants,lawyers and Counselors with extensive resources and expertise at their disposal working.",
-"exp":"2-5 Years",
+"exp":"0 - 1 Years",
 "salary":"50000-45,30,000 INR"
 },
 
 {"id":"6715648",
 "jobId":6715648,
+  "value": "IT",
+  "function" : "IT",
 "title":"MDM Admin",
 "locations":"Bengaluru / Bangalore,Chennai",
 "minimumExperience":{"years":4},
@@ -81,11 +87,13 @@
 "employerTypes":["Company"],
 "companyName":"Larsen & Toubro Infotech Limited",
 "companyProfile":"LTI (NSE: LTI) is a global technology consulting and digital solutions Company helping more than 485 clients succeed in a converging world. With operations in 33 countries,we go the extra mile for our clients and accelerate their digital transformation journeys. Founded in 1997 as a subsidiary of Larsen & Toubro Limited,our unique heritage gives us unrivalled real-world expertise to solve the most complex challenges of enterprises across all industries. Each day,our team of more than 45000 LTItes enable our clients to improve the effectiveness of their business and technology operations and deliver value to their customers,employees and shareholders.",
-"exp":"2-5 Years",
+"exp":"1 - 2 Years",
 "salary":"50000-45,30,000 INR"
 },
 
 {"id":"6715642",
+  "value":"Software Engineer",
+  "function":"IT/Hardware/Teleco...",
 "jobId":6715642,
 "title":"OUAF Developer ",
 "locations":"Bengaluru / Bangalore,Chennai",
@@ -98,7 +106,7 @@
 "summary":"MDM Utilities",
 "jobTypes":[],
 "employmentTypes":["Full time"],
-"skills":"MDM areas of VEE Rules,Usage Management,Measuring Components,Device Events,Device,Device Management",
+"skills":"MDM areas of VEE Rules,Usage Management,Device,Device Management",
 "recruiterId":505851,
 "companyId":804,
 "designations":["Software Engineer/Programmer"],
@@ -107,12 +115,14 @@
 "employerTypes":["Company"],
 "companyName":"Larsen & Toubro Infotech Limited",
 "companyProfile":"LTI (NSE: LTI) is a global technology consulting and digital solutions Company helping more than 485 clients succeed in a converging world. With operations in 33 countries,we go the extra mile for our clients and accelerate their digital transformation journeys. Founded in 1997 as a subsidiary of Larsen & Toubro Limited,our unique heritage gives us unrivalled real-world expertise to solve the most complex challenges of enterprises across all industries. Each day, our team of more than 45,000 LTItes enable our clients to improve the effectiveness of their business and technology operations and deliver value to their customers,employees and shareholders",
-"exp":"2-5 Years",
+"exp":"1 - 2 Years",
 "salary":"50000-45,30,000 INR"
 },
 
 {"id":"6715611",
 "jobId":6715611,
+  "value": "Software Engineer",
+  "function" : "Manufacturing",
 "title":"HCL Technologies is hiring Java developer For its R&D group ",
 "locations":"Chennai",
 "minimumExperience":{"years":5},
@@ -133,11 +143,13 @@
  "companyName":"HCL Technologies Limited",
  "companyProfile":"HCL Technology ,Chennai",
  "skills":"Java,Microservices,Micro Services",
- "exp":"2-5 Years",
+ "exp":"2 - 3 Years",
 "salary":"50000-45,30,000 INR"
 },
 
  {"id":"6715574",
+  "value":"Software Engineer",
+  "function":"IT/Hardware/Teleco...",
  "jobId":6715574,
  "title":"React native Developer - Atos",
  "locations":"Chennai,Pune",
@@ -159,11 +171,12 @@
  "companyName":"Atos Global It Solutions And Services Private Limited",
  "companyProfile":"| Worldwide Digital Leader | 11 billion revenue | 111,000 Employees | 71 Countries | Olympic & Paralympic Games Worldwide Partner |<br> <br> Atos is a global leader in digital transformation with 111,000 employees and annual revenue of c. € 11 billion. European number one in cybersecurity,cloud and high performance computing,the Group provides tailored end-to-end solutions for all industries in 71 countries. <br> <br> A pioneer in decarbonization services and products,Atos is committed to a secure and decarbonized digital for its clients. Atos is a SE (Societas Europaea),listed on Euronext Paris and included in the CAC 40 ESG and Next 20 Paris Stock indexes.",
  "skills":"React Native,Reactjs,ui,Redux,Ios,Android,Xcode,Intellij,Mobile Developer",
- "exp":"2-5 Years",
+ "exp":"3 - 4 Years",
 "salary":"50000-45,30,000 INR"
 },
 
  {"id":"6715570",
+  "value": "Software Engineer",
  "jobId":6715570,
  "title":"Urgent hiring for ETL Developer with LTI - Larsen & Toubro Infotech",
  "locations":"Bengaluru / Bangalore,Mumbai",
@@ -185,11 +198,12 @@
  "employerTypes":["Company"],
  "companyName":"Larsen & Toubro Infotech Limited",
  "companyProfile":"LTI (NSE: LTI) is a global technology consulting and digital solutions Company helping more than 485 clients succeed in a converging world. With operations in 33 countries,we go the extra mile for our clients and accelerate their digital transformation journeys. Founded in 1997 as a subsidiary of Larsen & Toubro Limited,our unique heritage gives us unrivalled real-world expertise to solve the most complex challenges of enterprises across all industries. Each day,our team of more than 45,000 LTItes enable our clients to improve the effectiveness of their business and technology operations and deliver value to their customers,employees and shareholders.",
- "exp":"2-5 Years",
+ "exp":"3 - 4 Years",
 "salary":"50000-45,30,000 INR"
 },
 
  {"id":"6715561",
+  "value": "IT/Hardware/Telecommunication",
  "jobId":6715561,
  "title":"IBM - Data stage_Tata Consultancy Services(TCS)",
  "locations":"Bengaluru / Bangalore,Chennai",
@@ -212,11 +226,13 @@
  "companyName":"TATA Consultancy Services Ltd.",
  "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
  "skills":"Ibm Mq,DataStage",
- "exp":"2-5 Years",
+
 "salary":"50000-45,30,000 INR"
 },
 
  {"id":"6715559",
+
+  "value": "IT/Hardware/Telecommunication",
  "jobId":6715559,
  "title":"Spark Developer ( Scala or python)_Tata Consultancy Services(TCS)",
  "locations":"Chennai,Hyderabad / Secunderabad,Telangana",
@@ -243,10 +259,14 @@
  "companyName":"TATA Consultancy Services Ltd.",
  "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
  "skills":"Spark",
- "exp":"2-5 Years",
 "salary":"50000-45,30,000 INR"
 },
  {"id":"6715558",
+ "exp":"0 - 1 Years",
+"salary":"50000-45,30,000 INR"
+},
+ {"id":"6715558",
+  "value": "IT/Hardware/Telecommunication",
  "jobId":6715558,
  "title":"Data scientist _Tata Consultancy Services(TCS)",
  "locations":"Bengaluru / Bangalore,Chennai",
@@ -269,11 +289,16 @@
  "companyName":"TATA Consultancy Services Ltd.",
  "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31, 2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
  "skills":"Data Scientist,Data Science",
- "exp":"2-5 Years",
 "salary":"50000-45,30,000 INR"
  },
 
  {"id":"6715553",
+  "salary":"50000-45,30,000 INR"
+ },
+
+ {"id":"6715553",
+  "value":"Software Engineer",
+  "function":"IT/Hardware/Teleco...",
  "jobId":6715553,
  "title":"Spark_Tata Consultancy Services(TCS)",
  "locations":"Chennai,Hyderabad / Secunderabad,Telangana",
@@ -301,12 +326,13 @@
  "companyName":"TATA Consultancy Services Ltd.",
  "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
  "skills":"Data Scientist,Data Science",
- "exp":"2-5 Years",
 "salary":"50000-45,30,000 INR"
  },
 
  {"id":"6715554",
  "jobId":6715554,
+  "value": "IT/Software Development",
+  "function" : "IT/Software Development", 
  "title":"Tableau Admin_Tata Consultancy Services(TCS)",
  "locations":"Bengaluru / Bangalore,Chennai",
  "minimumExperience":{"years":4},
@@ -331,11 +357,12 @@
  "companyName":"TATA Consultancy Services Ltd.",
  "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
  "skills":"Data Scientist,Data Science",
- "exp":"2-5 Years",
+ "exp":"0 - 1 Years",
 "salary":"50000-45,30,000 INR"
 },
 
  {"id":"6715550",
+  "value": "Manufacturing",
   "jobId":6715550,
   "title":"Python,Data science_Tata Consultancy Services(TCS)",
   "locations":"Delhi,Mumbai",
@@ -357,11 +384,13 @@
   "companyName":"TATA Consultancy Services Ltd.",
   "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 over the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
   "skills":"Data Scientist,Data Science",
-  "exp":"2-5 Years",
+
   "salary":"50000-45,30,000 INR"
     },
 
     {"id":"6715585",
+      "value":"Software Engineer",
+      "function":"IT/Hardware/Teleco...",
   "jobId":6715550,
   "title":"Python,Data science_Tata Consultancy Services(TCS)",
   "locations":"Delhi,Mumbai",
@@ -383,11 +412,13 @@
   "companyName":"TATA Consultancy Services Ltd.",
   "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 over the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
   "skills":"Data Scientist,Data Science",
-  "exp":"2-5 Years",
+
   "salary":"50000-45,30,000 INR"
     },
 
     {"id":"6031606",
+      "value":"IT",
+      "function":"IT/Hardware/Teleco...",
 "jobId":6031603,
 "title":"Software Engineer/Programmer Required For Canada & Australia",
 "locations":"Australia,Canada",
@@ -413,12 +444,14 @@
 "employerTypes":["Company"],
 "companyName":"Arcade Visas Services Private Limited",
 "companyProfile":"AVS IMMIGRATION is a company incorporated in INDIA and managed by a team of qualified and highly skilled professionals comprising efficient migration consultants,lawyers and Counselors with extensive resources and expertise at their disposal working.",
-"exp":"2-5 Years",
+"exp":"0 - 1 Years",
 "salary":"50000-45,30,000 INR"
     },
 
     {"id":"67156112",
 "jobId":6715642,
+      "value": "IT",
+      "function" : "IT/Software Development",
 "title":"OUAF Developer ",
 "locations":"Bengaluru / Bangalore,Chennai",
 "minimumExperience":{"years":3},
@@ -430,7 +463,7 @@
 "summary":"MDM Utilities",
 "jobTypes":[],
 "employmentTypes":["Full time"],
-"skills":"MDM areas of VEE Rules,Usage Management,Measuring Components,Device Events,Device,Device Management",
+"skills":"MDM areas of VEE Rules,Usage Management,Device,Device Management",
 "recruiterId":505851,
 "companyId":804,
 "designations":["Software Engineer/Programmer"],
@@ -439,11 +472,13 @@
 "employerTypes":["Company"],
 "companyName":"Larsen & Toubro Infotech Limited",
 "companyProfile":"LTI (NSE: LTI) is a global technology consulting and digital solutions Company helping more than 485 clients succeed in a converging world. With operations in 33 countries,we go the extra mile for our clients and accelerate their digital transformation journeys. Founded in 1997 as a subsidiary of Larsen & Toubro Limited,our unique heritage gives us unrivalled real-world expertise to solve the most complex challenges of enterprises across all industries. Each day, our team of more than 45,000 LTItes enable our clients to improve the effectiveness of their business and technology operations and deliver value to their customers,employees and shareholders",
-"exp":"2-5 Years",
+"exp":"2 - 3 Years",
 "salary":"50000-45,30,000 INR"
     },
 
       {"id":"6715584",
+        "value":"Software Engineer",
+        "function":"IT/Hardware/Teleco...",
       "jobId":6715554,
       "title":"Tableau Admin_Tata Consultancy Services(TCS)",
       "locations":"Bengaluru / Bangalore,Chennai",
@@ -469,11 +504,13 @@
       "companyName":"TATA Consultancy Services Ltd.",
       "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
       "skills":"Data Scientist,Data Science",
-      "exp":"2-5 Years",
+    
+      "exp":"0 - 1 Years",
       "salary":"50000-45,30,000 INR"
       },
 
       {"id":"6031113",
+        "value": "IT/Hardware/Telecommunication",
 "jobId":6031603,
 "title":"Software Engineer/Programmer Required For Canada & Australia",
 "locations":"Australia,Canada",
@@ -499,14 +536,15 @@
 "employerTypes":["Company"],
 "companyName":"Arcade Visas Services Private Limited",
 "companyProfile":"AVS IMMIGRATION is a company incorporated in INDIA and managed by a team of qualified and highly skilled professionals comprising efficient migration consultants,lawyers and Counselors with extensive resources and expertise at their disposal working.",
-"exp":"2-5 Years",
+"exp":"0 - 1 Years",
 "salary":"50000-45,30,000 INR"
       },
 
       {"id":"6715577",
+        "value": "IT/Hardware/Telecommunication",
       "jobId":6715570,
       "title":"Urgent hiring for ETL Developer with LTI - Larsen & Toubro Infotech",
-      "locations":"Bengaluru / Bangalore,Mumbai",
+      "locations":"Bangalore",
       "minimumExperience":{"years":4},
       "maximumExperience":{"years":9},
       "updatedAt":"3 hours ago",
@@ -525,14 +563,17 @@
       "employerTypes":["Company"],
       "companyName":"Larsen & Toubro Infotech Limited",
       "companyProfile":"LTI (NSE: LTI) is a global technology consulting and digital solutions Company helping more than 485 clients succeed in a converging world. With operations in 33 countries,we go the extra mile for our clients and accelerate their digital transformation journeys. Founded in 1997 as a subsidiary of Larsen & Toubro Limited,our unique heritage gives us unrivalled real-world expertise to solve the most complex challenges of enterprises across all industries. Each day,our team of more than 45,000 LTItes enable our clients to improve the effectiveness of their business and technology operations and deliver value to their customers,employees and shareholders.",
-      "exp":"2-5 Years",
+    
+      "exp":"0 - 1 Years",
      "salary":"50000-45,30,000 INR"
      },
 
      {"id":"6715666",
      "jobId":6715561,
+      "value": "IT",
+      "function" : "IT/Software Development", 
      "title":"IBM - Data stage_Tata Consultancy Services(TCS)",
-     "locations":"Bengaluru / Bangalore,Chennai",
+     "locations":"Bangalore",
      "minimumExperience":{"years":4},
      "maximumExperience":{"years":10},
      "updatedAt":"3 hours ago",
@@ -552,7 +593,8 @@
      "companyName":"TATA Consultancy Services Ltd.",
      "companyProfile":"A part of the Tata group,India's largest multinational business group,TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31,2021,and is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.",
      "skills":"Ibm Mq,DataStage",
-     "exp":"2-5 Years",
+  
+     "exp":"0 - 1 Years",
     "salary":"50000-45,30,000 INR"
     }
   ]
