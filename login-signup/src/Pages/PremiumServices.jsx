@@ -63,7 +63,7 @@ const PremiumServices = () => {
         m="auto"
         mt={"40px"}
       >
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
@@ -89,7 +89,7 @@ const PremiumServices = () => {
           </Flex>
         </GridItem>
 
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
@@ -115,7 +115,7 @@ const PremiumServices = () => {
           </Flex>
         </GridItem>
 
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
@@ -141,7 +141,7 @@ const PremiumServices = () => {
           </Flex>
         </GridItem>
 
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
@@ -167,7 +167,7 @@ const PremiumServices = () => {
           </Flex>
         </GridItem>
 
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
@@ -193,7 +193,7 @@ const PremiumServices = () => {
           </Flex>
         </GridItem>
 
-        <GridItem border={"1px solid"} p="20px" borderRadius={"20px"}>
+        <GridItem border={"1px solid #dad7cd"} p="20px" borderRadius={"20px"}>
           <Flex gap={"20px"}>
             <Image
               bg={"#dee2ff"}
