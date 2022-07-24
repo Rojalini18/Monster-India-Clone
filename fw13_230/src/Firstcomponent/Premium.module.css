@@ -1,0 +1,20 @@
+.maindiv>{
+    width: 100%;
+    height:2000px;
+    border: 1px solid red;
+    background-color: red;
+}
+.firstdiv{
+    width: 95%;
+    margin-left: 50px;
+    display: flex;
+   
+}
+.rightdiv{
+    width: 70%;
+    margin-right: 20px;
+}
+.leftdiv{
+    width: 25%;
+
+}
