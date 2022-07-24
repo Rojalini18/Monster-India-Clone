@@ -32,7 +32,7 @@ function Login() {
     const signup_data = useSelector((state)=>state.signup_data)
     const auth = useSelector((state)=>state.auth)
     
-    
+
     
     const handleClick = (newSize) => {
       setSize(newSize)
@@ -55,6 +55,11 @@ function Login() {
         flag=true
       }
     })
+
+  
+
+    
+   
     // console.log(signup_data)
     if(flag==true){
       dispatch(setCredentials(payload))
