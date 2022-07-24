@@ -1,0 +1,36 @@
+.navbar-main{
+    display: flex;
+    gap: 100px;
+    border: 1px solid black;
+    height: 70px;
+    width: 100%;
+}
+.navbar-side1{
+    display: flex;
+    gap: 30px;
+}
+.navbar-side2{
+    display: flex;
+    gap: 40px;
+}
+.navbar-inner{
+    font-weight: 700;
+    cursor: pointer;
+    font-weight: bold;
+    font-family:poppins medium webfont;
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+    margin: 0 0 0 0;
+}
+.inner1{
+    font-weight: bolder;
+    margin-top: 17px;
+    border: 1px solid black;
+    height:30px;
+    border-radius: 5px;
+    width:190px;
+    align-items:center;
+    padding-left: 10px;
+}
+

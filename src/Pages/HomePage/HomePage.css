@@ -1,0 +1,38 @@
+.home-inner1{
+    align-items: center;
+    height:240px;
+    width: 640px;
+    border: 1px solid rgb(128,128,128);
+}
+.home-inner2{
+    align-items: center;
+    height:210px;
+    width: 260px;
+    border: 1px solid rgb(128,128,128);
+}
+.home-inner3{
+    height:210px;
+    width: 260px;
+    border: 1px solid rgb(128,128,128);
+}
+.home-main1{
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+    width: 1100px;
+}
+
+.home-search{
+    cursor:pointer;
+    color:white;
+    background-image: url("https://img.freepik.com/free-vector/neon-lights-technology-geometric-background_52683-13534.jpg?t=st=1658626651~exp=1658627251~hmac=62ca48bd34af3622b46b0fa839a3dd0e5d7e233deedbc695a9e40b0c8ba32abf&w=2000");
+    background-color:white;
+    margin: 50px 0 0 0;
+    padding-left: 200px;
+    height: 370px;
+    width:auto;
+    border: 1px solid black;
+}
+.home-container{
+    background-color: rgb(245,245,245);
+}
