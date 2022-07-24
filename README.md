@@ -1,6 +1,6 @@
 # Monster-India Clone
 
-This collaborative project is a clone of the [Monster-India](https://stellular-kleicha-361f06.netlify.app/) website. We as a team of 5 members cloned this website during our RCT-211 construct week project in Masai School, Bangalore.
+This collaborative project is a clone of the [Monster-India](https://www.monsterindia.com/) website. We as a team of 5 members cloned this website during our RCT-211 construct week project in Masai School, Bangalore.
 
 Monster India, India’s leading online career and recruitment resource with its cutting edge technology provides relevant profiles to employers and relevant jobs to jobseekers across industry verticals, experience levels and geographies
 
