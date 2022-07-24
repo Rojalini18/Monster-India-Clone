@@ -40,7 +40,7 @@ function Login() {
     }
   
   const handleLogin=()=>{
-  console.log("helll")
+  console.log("hello")
     let payload={
        name:"",
        email:email,
